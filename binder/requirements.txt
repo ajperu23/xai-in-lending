@@ -1,2 +1,3 @@
 shap==0.44.1
 dice-ml==0.11
+statsmodels==0.14.1
