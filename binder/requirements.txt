@@ -1,3 +1,7 @@
 shap==0.44.1
 dice-ml==0.11
 statsmodels==0.14.1
+xgboost==2.0.3
+transformers==4.38.2
+torch==2.2.1
+accelerate==0.27.2
